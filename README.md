@@ -1,3 +1,4 @@
+```
 readme.md>hi!
 readme.md>welcome to my readme!
 readme.md>i like seals, memes, coding, stuff, more stuff, more more stuff. you get it.
@@ -17,3 +18,4 @@ readme.md>bye bye!
 readme.md> psssss... you can contact me on any of my social media on my linktr.ee
 readme.md> linktr.ee/sealington
 readme.md> anyways, this is the real bye bye!
+```
