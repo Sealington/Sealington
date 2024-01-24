@@ -20,5 +20,6 @@ readme.md> i hope u enjoyed this very cool masterpiece of a readme.
 readme.md> ...
 readme.md> psssss... you can contact me on any of my social media on my linktr.ee
 readme.md> linktr.ee/sealington
+readme.md> or my website... sealo.neocities.org
 readme.md> anyways, bye bye!
 ```
